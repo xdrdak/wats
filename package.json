@@ -1,0 +1,19 @@
+{
+  "name": "wats",
+  "version": "1.0.0",
+  "description": "Pretty prints the list of scripts for a given node project",
+  "bin": {
+    "wats": "wats.js"
+  },
+  "main": "wats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "util"
+  ],
+  "preferGlobal": true,
+  "author": "Xavier Drdak",
+  "license": "WTFPL"
+}
