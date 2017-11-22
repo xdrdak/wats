@@ -13,11 +13,12 @@ git clone https://github.com/xdrdak/wats.git
 And then...
 
 ```
+cd wats
 npm -g i .
 ```
 
 ## Usage
 
-Step 1: `$> wats`
+Step 1: `wats` in a valid node project
 
-Step 2: There is no step 2
+Step 2: There is no step 3
